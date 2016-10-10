@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a52f145-afbf-45b8-888d-abe9e22f25d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Calculator1.java" afterPath="$PROJECT_DIR$/src/Calculator1.java" />
     </list>
     <ignored path="Calculatorbank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="Calculator1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Calculator1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48697916">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17708333">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -423,7 +424,13 @@
       <option name="project" value="LOCAL" />
       <updated>1476075667475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" изменение в ветке2">
+      <created>1476078379195</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476078379195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -469,7 +476,8 @@
     <MESSAGE value="Второе изменение" />
     <MESSAGE value="Третье изменение" />
     <MESSAGE value=" изменение в ветке" />
-    <option name="LAST_COMMIT_MESSAGE" value=" изменение в ветке" />
+    <MESSAGE value=" изменение в ветке2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" изменение в ветке2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -532,8 +540,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculator1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48697916">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17708333">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
