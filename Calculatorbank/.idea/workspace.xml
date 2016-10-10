@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a52f145-afbf-45b8-888d-abe9e22f25d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Calculator1.java" afterPath="$PROJECT_DIR$/src/Calculator1.java" />
     </list>
     <ignored path="Calculatorbank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -430,7 +429,13 @@
       <option name="project" value="LOCAL" />
       <updated>1476078379195</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" изменение в ветке2">
+      <created>1476078480710</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1476078480710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
