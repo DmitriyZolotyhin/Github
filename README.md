@@ -1,5 +1,5 @@
 # Github
-Java calculator for annuity payments, the program starts and runs, but there are logical errors in the calculations:
+Console program Java "calculator for annuity payments",сonsiders and reports on input value,program has logical errors.
 
 
 
